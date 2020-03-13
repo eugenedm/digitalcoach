@@ -1,6 +1,6 @@
 links:
 - title: Writing
-  url: /
+  url: {{ site.baseurl }}
 - title: About
   url: /about
 - title: Search
