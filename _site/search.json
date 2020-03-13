@@ -2,232 +2,254 @@
   
     {
 
-      "title"    : "Difference between font formats",
-      "url"      : "/2019/08/31/difference-between-font-formats",
+      "title"    : "Final Thoughts",
+      "url"      : "/2020/02/21/p6-0",
       "category" : "",
       "tags"     : "typography",
-      "date"     : "2019-08-31 00:00:00 +0200",
-      "discription" : "What is the difference between various font formats?"
+      "date"     : "2020-02-21 00:00:00 +0100",
+      "discription" : "false"
 
     } ,
   
     {
 
-      "title"    : "Staticman comments on a Jekyll site",
-      "url"      : "/2019/07/23/staticman-comments-on-a-jekyll-site",
+      "title"    : "$30K Promise",
+      "url"      : "/2020/02/20/p5-3",
       "category" : "",
-      "tags"     : "jekyll, coding",
-      "date"     : "2019-07-23 00:00:00 +0200",
-      "discription" : "Generating comments on static sites with Staticman"
+      "tags"     : "typography",
+      "date"     : "2020-02-20 00:00:00 +0100",
+      "discription" : "false"
 
     } ,
   
     {
 
-      "title"    : "Adding HTTP response headers to a Netlify static website",
-      "url"      : "/2019/05/23/adding-http-response-headers-to-a-netlify-static-website",
+      "title"    : "Inspire to change other people&#39;s lives",
+      "url"      : "/2020/02/20/p5-2",
       "category" : "",
-      "tags"     : "netlify, coding, security",
-      "date"     : "2019-05-23 00:00:00 +0200",
-      "discription" : "Increase the security of your Netlify website by adding security headers"
+      "tags"     : "typography",
+      "date"     : "2020-02-20 00:00:00 +0100",
+      "discription" : "false"
 
     } ,
   
     {
 
-      "title"    : "Syntax highlight with Rouge in Jekyll",
-      "url"      : "/2018/12/23/syntax-highlight-with-rouge-in-jekyll",
+      "title"    : "Get them to the Tranformation",
+      "url"      : "/2020/02/20/p5-1",
       "category" : "",
-      "tags"     : "jekyll, coding",
-      "date"     : "2018-12-23 00:00:00 +0100",
-      "discription" : "Enable syntax highlighting in your site"
+      "tags"     : "typography",
+      "date"     : "2020-02-20 00:00:00 +0100",
+      "discription" : "false"
 
     } ,
   
     {
 
-      "title"    : "Page specific assets in Jekyll",
-      "url"      : "/2018/11/12/page-specific-assets-in-jekyll",
+      "title"    : "Part 5. WHAT RESULT? (point B)",
+      "url"      : "/2020/02/20/p5-0",
       "category" : "",
-      "tags"     : "coding, jekyll",
-      "date"     : "2018-11-12 00:00:00 +0100",
-      "discription" : "How to set a custom CSS or JS for each page"
+      "tags"     : "typography",
+      "date"     : "2020-02-20 00:00:00 +0100",
+      "discription" : "false"
 
     } ,
   
     {
 
-      "title"    : "Jekyll reading time without plugins",
-      "url"      : "/2018/09/20/jekyll-reading-time-without-plugins",
+      "title"    : "Step 3. Automate / Scale (webinar + funnel)",
+      "url"      : "/2020/02/19/p4-3",
       "category" : "",
-      "tags"     : "jekyll, coding",
-      "date"     : "2018-09-20 00:00:00 +0200",
-      "discription" : "The reading time indicator for your website"
+      "tags"     : "typography",
+      "date"     : "2020-02-19 00:00:00 +0100",
+      "discription" : "false"
 
     } ,
   
     {
 
-      "title"    : "How to add an RSS feed to a Jekyll blog",
-      "url"      : "/2018/09/11/how-to-add-an-rss-feed-to-a-jekyll-blog",
+      "title"    : "Step 2. Deliver",
+      "url"      : "/2020/02/19/p4-2",
       "category" : "",
-      "tags"     : "jekyll, coding",
-      "date"     : "2018-09-11 00:00:00 +0200",
-      "discription" : "Generate an Atom (RSS-like) feed of your Jekyll posts"
+      "tags"     : "typography",
+      "date"     : "2020-02-19 00:00:00 +0100",
+      "discription" : "false"
 
     } ,
   
     {
 
-      "title"    : "Top plugins for Wordpress websites",
-      "url"      : "/2018/08/18/top-plugins-for-wordpress-websites",
+      "title"    : "Step 1. Close sales on the phone (skype)",
+      "url"      : "/2020/02/19/p4-1",
       "category" : "",
-      "tags"     : "coding, wordpress",
-      "date"     : "2018-08-18 00:00:00 +0200",
-      "discription" : "Wordpress plugins that I deem as a necessity for everyone"
+      "tags"     : "typography",
+      "date"     : "2020-02-19 00:00:00 +0100",
+      "discription" : "false"
 
     } ,
   
     {
 
-      "title"    : "Install Jekyll on Mac OS",
-      "url"      : "/2018/06/14/install-jekyll-on-mac-os",
+      "title"    : "Part 4. CONVERT",
+      "url"      : "/2020/02/19/p4-0",
       "category" : "",
-      "tags"     : "jekyll, coding",
-      "date"     : "2018-06-14 00:00:00 +0200",
-      "discription" : "How to install Jekyll using Homebrew"
+      "tags"     : "typography",
+      "date"     : "2020-02-19 00:00:00 +0100",
+      "discription" : "false"
 
     } ,
   
     {
 
-      "title"    : "Applying the active class for the current page in Jekyll",
-      "url"      : "/2018/06/07/applying-the-active-class-for-the-current-page-in-jekyll",
+      "title"    : "Step 3. Have 100 conversations / book calls",
+      "url"      : "/2020/02/18/p3-3",
       "category" : "",
-      "tags"     : "coding, jekyll",
-      "date"     : "2018-06-07 00:00:00 +0200",
-      "discription" : "How to apply the active class for the current page in Jekyll"
+      "tags"     : "typography",
+      "date"     : "2020-02-18 00:00:00 +0100",
+      "discription" : "false"
 
     } ,
   
     {
 
-      "title"    : "Displaying GitHub Gists in Jekyll sites",
-      "url"      : "/2018/05/13/displaying-github-gists-in-jekyll-sites",
+      "title"    : "Step 2. Post in Groups (hooks)",
+      "url"      : "/2020/02/18/p3-2",
       "category" : "",
-      "tags"     : "jekyll, coding",
-      "date"     : "2018-05-13 00:00:00 +0200",
-      "discription" : "A Liquid tag for Jekyll sites that allows embedding Gists"
+      "tags"     : "typography",
+      "date"     : "2020-02-18 00:00:00 +0100",
+      "discription" : "false"
 
     } ,
   
     {
 
-      "title"    : "Disable Jekyll&#39;s default syntax highlighter Rouge",
-      "url"      : "/2018/02/05/disable-jekylls-default-syntax-highlighter-rouge",
+      "title"    : "Step 1. Build your Personal Brand",
+      "url"      : "/2020/02/18/p3-1",
       "category" : "",
-      "tags"     : "coding, jekyll",
-      "date"     : "2018-02-05 00:00:00 +0100",
-      "discription" : "How to disable Jekyll&#39;s default syntax highlighter"
+      "tags"     : "typography",
+      "date"     : "2020-02-18 00:00:00 +0100",
+      "discription" : "false"
 
     } ,
   
     {
 
-      "title"    : "Image caption in Jekyll",
-      "url"      : "/2018/02/03/image-captions-in-jekyll",
+      "title"    : "Part 3. ATTRACT",
+      "url"      : "/2020/02/18/p3-0",
       "category" : "",
-      "tags"     : "jekyll, coding",
-      "date"     : "2018-02-03 00:00:00 +0100",
-      "discription" : "Using an image caption in Jekyll"
+      "tags"     : "typography",
+      "date"     : "2020-02-18 00:00:00 +0100",
+      "discription" : "false"
 
     } ,
   
     {
 
-      "title"    : "Showing the word count in Jekyll",
-      "url"      : "/2018/01/17/showing-the-word-count",
+      "title"    : "Step 3. What&#39;s your irresistible offer",
+      "url"      : "/2020/02/17/p2-3",
       "category" : "",
-      "tags"     : "jekyll, coding",
-      "date"     : "2018-01-17 00:00:00 +0100",
-      "discription" : "Obtaining the word count from a post in Jekyll"
+      "tags"     : "typography",
+      "date"     : "2020-02-17 00:00:00 +0100",
+      "discription" : "false"
 
     } ,
   
     {
 
-      "title"    : "Custom 404 page for Jekyll on Github pages",
-      "url"      : "/2017/11/15/custom-404-page-for-jekyll-on-github-pages",
+      "title"    : "Step 2. Who&#39;s your ideal client",
+      "url"      : "/2020/02/17/p2-2",
       "category" : "",
-      "tags"     : "jekyll, coding",
-      "date"     : "2017-11-15 00:00:00 +0100",
-      "discription" : "Serve custom 404 error pages with Jekyll"
+      "tags"     : "typography",
+      "date"     : "2020-02-17 00:00:00 +0100",
+      "discription" : "false"
 
     } ,
   
     {
 
-      "title"    : "Redirect Jekyll URLs",
-      "url"      : "/2017/11/10/redirect-jekyll-urls",
+      "title"    : "Step 1. Niche Research",
+      "url"      : "/2020/02/17/p2-1",
       "category" : "",
-      "tags"     : "coding, jekyll",
-      "date"     : "2017-11-10 00:00:00 +0100",
-      "discription" : "How to Redirect Pages in Jekyll"
+      "tags"     : "typography",
+      "date"     : "2020-02-17 00:00:00 +0100",
+      "discription" : "false"
 
     } ,
   
     {
 
-      "title"    : "Creating navigation menu in Jekyll",
-      "url"      : "/2017/01/03/creating-navigation-menu-in-jekyll",
+      "title"    : "Part 2. Discover",
+      "url"      : "/2020/02/17/p2-0",
       "category" : "",
-      "tags"     : "coding, jekyll",
-      "date"     : "2017-01-03 00:00:00 +0100",
-      "discription" : "Using data folder to build Jekyll navigation"
+      "tags"     : "typography",
+      "date"     : "2020-02-17 00:00:00 +0100",
+      "discription" : "false"
 
     } ,
   
     {
 
-      "title"    : "Structured Data markup validation and testing tools",
-      "url"      : "/2016/12/11/structured-data-markup-validation-and-testing-tools",
+      "title"    : "First $2,000-$3,000",
+      "url"      : "/2020/02/16/p1-3",
       "category" : "",
-      "tags"     : "seo",
-      "date"     : "2016-12-11 00:00:00 +0100",
-      "discription" : "Schema.org structured data helps you to highlight specific information for search engines and to improve the way your page displays in SERPs"
+      "tags"     : "typography",
+      "date"     : "2020-02-16 00:00:00 +0100",
+      "discription" : "false"
 
     } ,
   
     {
 
-      "title"    : "Top monospaced fonts for coding",
-      "url"      : "/2016/11/27/top-monospaced-fonts-for-coding",
+      "title"    : "From Current to Desired Situation",
+      "url"      : "/2020/02/16/p1-2",
       "category" : "",
-      "tags"     : "coding",
-      "date"     : "2016-11-27 00:00:00 +0100",
-      "discription" : "Take a look at the fonts in this post that can make your text editor or terminal emulator look little bit nicer"
+      "tags"     : "typography",
+      "date"     : "2020-02-16 00:00:00 +0100",
+      "discription" : "false"
 
     } ,
   
     {
 
-      "title"    : "Places where you can learn how to code",
-      "url"      : "/2015/07/31/places-where-you-can-learn-how-to-code",
+      "title"    : "No Problems? No business!",
+      "url"      : "/2020/02/16/p1-1",
       "category" : "",
-      "tags"     : "coding",
-      "date"     : "2015-07-31 00:00:00 +0200",
-      "discription" : "There many different options to learn to code online, so in this article, find places you can learn to code"
+      "tags"     : "typography",
+      "date"     : "2020-02-16 00:00:00 +0100",
+      "discription" : "false"
 
     } ,
   
     {
 
-      "title"    : "CSS hacks you may not know",
-      "url"      : "/2014/05/12/css-hacks-you-may-not-know",
+      "title"    : "Part 1. WHAT PROBLEM? (point A)",
+      "url"      : "/2020/02/16/p1-0",
       "category" : "",
-      "tags"     : "css",
-      "date"     : "2014-05-12 00:00:00 +0200",
-      "discription" : "This is a collection of short CSS snippets I thought might be useful for beginners"
+      "tags"     : "typography",
+      "date"     : "2020-02-16 00:00:00 +0100",
+      "discription" : "false"
+
+    } ,
+  
+    {
+
+      "title"    : "The Big Idea About This Book",
+      "url"      : "/2020/02/15/big-idea",
+      "category" : "",
+      "tags"     : "typography",
+      "date"     : "2020-02-15 00:00:00 +0100",
+      "discription" : "false"
+
+    } ,
+  
+    {
+
+      "title"    : "FROM THE DESK OF GENE ADAM",
+      "url"      : "/2020/02/14/from-the-desk",
+      "category" : "",
+      "tags"     : "typography",
+      "date"     : "2020-02-14 00:00:00 +0100",
+      "discription" : "false"
 
     } 
   
