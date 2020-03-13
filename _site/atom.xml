@@ -4,7 +4,7 @@
  <title>Sidey</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2020-03-13T23:19:02+01:00</updated>
+ <updated>2020-03-13T23:19:54+01:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name></name>
@@ -173,7 +173,7 @@
  </entry>
  
  <entry>
-   <title>Part 2. Discover</title>
+   <title>Part 2. DISCOVER</title>
    <link href="http://localhost:4000/2020/02/17/p2-0"/>
    <updated>2020-02-17T00:00:00+01:00</updated>
    <id>http://localhost:4000/2020/02/17/p2-0</id>
