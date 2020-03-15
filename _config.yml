@@ -24,16 +24,16 @@ description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
-#baseurl: "" # for local
+# baseurl: "" # for local
 baseurl: "/digitalcoach" # for remote
-#url: ""  # for local
+# url: ""  # for local
 url: "" # for remote
 twitter_username: jekyllrb
 github_username:  jekyll
 
 # Build settings
- remote_theme: pmarsceill/just-the-docs #for remote
-#theme: "just-the-docs" # for local
+remote_theme: pmarsceill/just-the-docs #for remote
+# theme: "just-the-docs" # for local
 
 # theme: minima
 plugins:
