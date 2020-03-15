@@ -34,8 +34,8 @@ remote_theme: pmarsceill/just-the-docs #for remote
 
 url: ""
 
-baseurl: "" # for local
-# baseurl: "/digitalcoach" # for remote
+# baseurl: "" # for local
+baseurl: "/digitalcoach" # for remote
 
 # theme: minima
 plugins:
