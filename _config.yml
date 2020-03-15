@@ -29,13 +29,13 @@ twitter_username: jekyllrb
 github_username:  jekyll
 
 # Build settings
-# remote_theme: pmarsceill/just-the-docs #for remote
-theme: "just-the-docs" # for local
+remote_theme: pmarsceill/just-the-docs #for remote
+# theme: "just-the-docs" # for local
 
 url: ""
 
-baseurl: "" # for local
-# baseurl: "/digitalcoach" # for remote
+# baseurl: "" # for local
+baseurl: "/digitalcoach" # for remote
 
 # theme: minima
 plugins:
