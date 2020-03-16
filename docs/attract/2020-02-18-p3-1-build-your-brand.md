@@ -14,7 +14,7 @@ No brand - no people. with the exception of ads. But ads could be very expensive
 
 A few years ago I wrote the whole book about how to build your personal brand. The book is called  Influencer Secrets and you can get it here. [Link]  on this subject.
 
-
+# Model other people.
 
 
 
