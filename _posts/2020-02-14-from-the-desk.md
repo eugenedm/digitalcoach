@@ -9,3 +9,4 @@ tags: [typography]
 
 From the desk of Gene Adam
 
+Get the page from frank Kerns book as an example
