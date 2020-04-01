@@ -20,13 +20,19 @@ How can you be a guide, you might ask, if you don't know what they want to achie
 
 Simply ask.
 
-Imagine yourself now and yourself in the future. Two dots. Point A and point B.
+But before asking them just future pace them with their own imagination.
 
-What has to have happened for them so they achieve their goals?
+Start with this:
 
+"Imagine yourself now and yourself in one year from now. Two dots. Point A and point B." 
+
+What has to have happened in their life so they feel great about  achieving their dream goals?
 
 
 
 You are that person that person in the middle. 
+
+
+
 
 They need you 
