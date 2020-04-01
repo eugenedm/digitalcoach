@@ -7,5 +7,26 @@ comments: true
 tags: [what-problem]
 ---
 
-Lorem ipsum dolor amet tousled viral art party blue bottle single-origin coffee cardigan, selvage man braid helvetica. Banh mi taxidermy meditation microdosing. Selvage cornhole YOLO, small batch vexillologist raclette VHS prism sustainable 8-bit ugh semiotics letterpress disrupt pop-up. Celiac shabby chic ugh, jianbing whatever kitsch tattooed edison bulb kogi irony etsy.
+You are in the business of transforming people's lives. You are a merchant of confidence and ability.
 
+
+You need to transform their life from the unaccomplished self to successful self.
+
+And your role is very important in their life, because without you this transformation wouldn't be possible.
+
+You don't have to be a hero, but you have to be their guide.
+
+How can you be a guide, you might ask, if you don't know what they want to achieve? 
+
+Simply ask.
+
+Imagine yourself now and yourself in the future. Two dots. Point A and point B.
+
+What has to have happened for them so they achieve their goals?
+
+
+
+
+You are that person that person in the middle. 
+
+They need you 
