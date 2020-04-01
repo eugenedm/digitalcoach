@@ -7,7 +7,7 @@ comments: true
 tags: [what-problem]
 ---
 
-You are in the business of transforming people's lives. You are a merchant of confidence and ability.
+You are in the business of transforming people's lives. You are the merchant of their confidence and their ability.
 
 
 You need to transform their life from the unaccomplished self to successful self.
