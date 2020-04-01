@@ -26,13 +26,16 @@ Start with this:
 
 "Imagine yourself now and yourself in one year from now. Two dots. Point A and point B." 
 
-What has to have happened in their life so they feel great about  achieving their dream goals?
+And ask the magic question:
+
+"What has to have happened in your life so you feel great about  achieving your dream goals?"
+
+
+[Picture]
+
+You are that guide in the middle between point and A and point B. 
 
 
 
-You are that person that person in the middle. 
 
-
-
-
-They need you 
+ 
