@@ -32,10 +32,9 @@ What has happened in your life already that makes you so happy with your new res
 
 We are talking to them in the future because we need to know their goals and vision for the next year. 
 
-And I believe it is the only way to make them happy about the desired outcome. They will tel you.
-  
+And I believe it is the only way to make them happy about the desired outcome. They will simply tell you. It works beautifully. 
 
-
+And if you want to ask this question from the present time, you can say this:
 
 "What has to have happened in your life so you feel great about  achieving your dream goals?"
 
@@ -43,6 +42,9 @@ And I believe it is the only way to make them happy about the desired outcome. T
 [Picture]
 
 You are that guide in the middle between point A and point B. 
+
+And by asking the right questions you will virtually know everything what needs to be done for your coaching client.
+
 
 
 
