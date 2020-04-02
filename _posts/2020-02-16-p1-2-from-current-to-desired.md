@@ -24,16 +24,25 @@ But before asking them just future pace them with their own imagination.
 
 Start with this:
 
-"Imagine yourself now and yourself in one year from now. Two dots. Point A and point B." 
+"Imagine one year passes. And, imagine you are one year older and smarter. 
+   
+And so I meet the older you and we have a conversation... And so I ask this question...
 
-And ask the magic question:
+What has happened in your life already that makes you so happy with your new results???"
+
+We are talking to them in the future because we need to know their goals and vision for the next year. 
+
+And I believe it is the only way to make them happy about the desired outcome. They will tel you.
+  
+
+
 
 "What has to have happened in your life so you feel great about  achieving your dream goals?"
 
 
 [Picture]
 
-You are that guide in the middle between point and A and point B. 
+You are that guide in the middle between point A and point B. 
 
 
 
